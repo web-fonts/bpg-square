@@ -1,0 +1,26 @@
+{
+  "name": "bpg-square",
+  "description": "BPG Square Web Font",
+  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-square"],
+  "main": [
+    "css/bpg-square.css"
+  ],
+  "homepage": "https://github.com/web-fonts/bpg-square",
+  "authors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-fonts/bpg-square.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.md",
+    "font.json"
+  ]
+}
