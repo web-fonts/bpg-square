@@ -1,6 +1,7 @@
 {
   "name": "bpg-square",
-  "description": "BPG Square Web Font",
+  "description": "BPG Square Web-Font Package",
+  "version": "1.0.0",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-square"],
   "main": [
     "css/bpg-square.css"
@@ -13,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/web-fonts/bpg-square.git"
   },
-  "license": "MIT",
+  "license": ["MIT", "CC-BY-NC-ND-4.0"],
   "ignore": [
     "**/.*",
     "node_modules",
